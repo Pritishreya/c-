@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "edo", "edo\edo.csproj", "{BA6F8E89-0BA8-4A45-B374-133A6B3350FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA6F8E89-0BA8-4A45-B374-133A6B3350FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA6F8E89-0BA8-4A45-B374-133A6B3350FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA6F8E89-0BA8-4A45-B374-133A6B3350FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA6F8E89-0BA8-4A45-B374-133A6B3350FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42535BDE-51E2-454B-8B96-59AADC736BF6}
+	EndGlobalSection
+EndGlobal

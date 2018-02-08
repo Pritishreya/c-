@@ -1,0 +1,6 @@
+C:\Users\PRITI\Desktop\Priti\C#\Assign1\C#assign\Assign1\Assign1\bin\Debug\Assign1.exe.config
+C:\Users\PRITI\Desktop\Priti\C#\Assign1\C#assign\Assign1\Assign1\bin\Debug\Assign1.exe
+C:\Users\PRITI\Desktop\Priti\C#\Assign1\C#assign\Assign1\Assign1\bin\Debug\Assign1.pdb
+C:\Users\PRITI\Desktop\Priti\C#\Assign1\C#assign\Assign1\Assign1\obj\Debug\Assign1.csproj.CoreCompileInputs.cache
+C:\Users\PRITI\Desktop\Priti\C#\Assign1\C#assign\Assign1\Assign1\obj\Debug\Assign1.exe
+C:\Users\PRITI\Desktop\Priti\C#\Assign1\C#assign\Assign1\Assign1\obj\Debug\Assign1.pdb

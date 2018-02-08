@@ -1,0 +1,14 @@
+C:\Users\PRITI\Desktop\Priti\C#\Assign2\edo\edo\bin\Debug\edo.exe.config
+C:\Users\PRITI\Desktop\Priti\C#\Assign2\edo\edo\bin\Debug\edo.exe
+C:\Users\PRITI\Desktop\Priti\C#\Assign2\edo\edo\bin\Debug\edo.pdb
+C:\Users\PRITI\Desktop\Priti\C#\Assign2\edo\edo\obj\Debug\edo.csprojResolveAssemblyReference.cache
+C:\Users\PRITI\Desktop\Priti\C#\Assign2\edo\edo\obj\Debug\edo.csproj.CoreCompileInputs.cache
+C:\Users\PRITI\Desktop\Priti\C#\Assign2\edo\edo\obj\Debug\edo.exe
+C:\Users\PRITI\Desktop\Priti\C#\Assign2\edo\edo\obj\Debug\edo.pdb
+C:\Users\PRITI\Desktop\Priti\C#\Assign1\C#assign\Assign2\edo\edo\bin\Debug\edo.exe.config
+C:\Users\PRITI\Desktop\Priti\C#\Assign1\C#assign\Assign2\edo\edo\bin\Debug\edo.exe
+C:\Users\PRITI\Desktop\Priti\C#\Assign1\C#assign\Assign2\edo\edo\bin\Debug\edo.pdb
+C:\Users\PRITI\Desktop\Priti\C#\Assign1\C#assign\Assign2\edo\edo\obj\Debug\edo.csprojResolveAssemblyReference.cache
+C:\Users\PRITI\Desktop\Priti\C#\Assign1\C#assign\Assign2\edo\edo\obj\Debug\edo.csproj.CoreCompileInputs.cache
+C:\Users\PRITI\Desktop\Priti\C#\Assign1\C#assign\Assign2\edo\edo\obj\Debug\edo.exe
+C:\Users\PRITI\Desktop\Priti\C#\Assign1\C#assign\Assign2\edo\edo\obj\Debug\edo.pdb
